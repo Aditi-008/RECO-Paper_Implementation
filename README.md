@@ -163,6 +163,6 @@ The simulation produces graphs comparing RECO against K-Means and M2C on:
 
 ## 👩‍💻 Author
 
-**Aditi Kashyap**
-Roll No: 2301EC03
-Subject: Wireless Communication
+>**Aditi Kashyap**
+>Roll No: 2301EC03
+>Subject: Wireless Communication
